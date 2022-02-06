@@ -52,7 +52,7 @@ function setOptionPanel() {
         hidden: false,
 		relax: false,
 		autopilot: false,
-		autoplay: false,
+		autoplay: true,
 
         hideNumbers: false,
         hideGreat: false,
